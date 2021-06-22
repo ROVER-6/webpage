@@ -6,29 +6,29 @@ textarea {
 
 }
   textarea {
-    background-color: #000000;
-    border: 1px solid #000000;
-    color: #CC0000;
-    padding: 8px;
+    background-color: #161616;
+    border: 1px solid #161616;
+    color: #ffffff;
+    padding: 10px;
     font-family: courier new;
 }
 
 body {
-  background: url("https://cdn.discordapp.com/attachments/450592441200803841/763720558117650493/halloween_bg.jpg");
+  background: url("https://cdn.discordapp.com/attachments/854803567889874975/856917411339829298/blackbackground.jpg");
 	background-size: cover;
 	background-position: center
   
 }
 "
 input {
-    background-color: #000;
-    color: #CC0000;
+    background-color: #161616;
+    color: #ffffff;
 }
 
 button {
-	background-color:#000000;
+	background-color:#191919;
 	cursor:pointer;
-	color:#CC0000;
+	color:#ffffff;
 	font-family:helvetica;
 	font-size:17px;
 	padding:7px 8px;
